@@ -1,0 +1,10 @@
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\bin\Debug\WebTest1.webtest
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\bin\Debug\LoadTest1.loadtest
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\bin\Debug\TestWeb.dll
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\bin\Debug\TestWeb.pdb
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\obj\Debug\TestWeb.csprojAssemblyReference.cache
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\obj\Debug\TestWeb.csproj.CoreCompileInputs.cache
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\obj\Debug\TestWeb.csproj.CopyComplete
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\obj\Debug\TestWeb.dll
+E:\PICA\KallSonys_B2C_v1.1\TestWeb\obj\Debug\TestWeb.pdb
