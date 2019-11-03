@@ -15,11 +15,17 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="App_Data/aspnet-KallSonys_B2C_v1.1-20191009103513_log.ldf">
       <publishTime>10/28/2019 21:05:21</publishTime>
     </File>
+    <File Include="App_Data/DefaultConnection.mdf">
+      <publishTime>11/02/2019 21:09:47</publishTime>
+    </File>
+    <File Include="App_Data/DefaultConnection_log.ldf">
+      <publishTime>11/02/2019 21:09:48</publishTime>
+    </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>10/09/2013 16:29:20</publishTime>
+      <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.pdb">
-      <publishTime>10/09/2013 16:29:20</publishTime>
+      <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>10/23/2017 13:15:18</publishTime>
@@ -49,7 +55,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="bin/es/System.Web.Optimization.resources.dll">
-      <publishTime>11/02/2014 15:28:40</publishTime>
+      <publishTime>02/11/2014 15:28:40</publishTime>
     </File>
     <File Include="bin/es/System.Web.Razor.resources.dll">
       <publishTime>11/28/2018 13:00:22</publishTime>
@@ -64,10 +70,10 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/28/2018 13:04:36</publishTime>
     </File>
     <File Include="bin/KallSonys_B2C_v1.1.dll">
-      <publishTime>11/02/2019 16:43:14</publishTime>
+      <publishTime>11/02/2019 21:10:04</publishTime>
     </File>
     <File Include="bin/KallSonys_B2C_v1.1.pdb">
-      <publishTime>11/02/2019 16:43:14</publishTime>
+      <publishTime>11/02/2019 21:10:04</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>04/24/2018 12:47:38</publishTime>
@@ -262,7 +268,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/28/2018 12:59:46</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>11/02/2014 15:26:04</publishTime>
+      <publishTime>02/11/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>11/28/2018 13:00:12</publishTime>
@@ -280,37 +286,37 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>01/23/2014 13:57:34</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css.map">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.min.css">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.min.css.map">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
       <publishTime>08/29/2019 16:29:36</publishTime>
     </File>
     <File Include="Content/bootstrap.css.map">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css.map">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Content/creditly.css">
       <publishTime>08/29/2019 11:32:57</publishTime>
     </File>
     <File Include="Content/easy-responsive-tabs.css">
-      <publishTime>08/10/2019 07:12:02</publishTime>
+      <publishTime>10/08/2019 07:12:02</publishTime>
     </File>
     <File Include="Content/familyLato.css">
-      <publishTime>08/10/2019 06:59:37</publishTime>
+      <publishTime>10/08/2019 06:59:37</publishTime>
     </File>
     <File Include="Content/flexslider.css">
       <publishTime>08/29/2019 11:32:57</publishTime>
@@ -331,25 +337,25 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>10/30/2019 08:01:16</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>09/10/2019 10:46:55</publishTime>
+      <publishTime>10/09/2019 10:46:55</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff2">
-      <publishTime>09/10/2019 10:35:03</publishTime>
+      <publishTime>10/09/2019 10:35:03</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>09/10/2019 10:35:00</publishTime>
+      <publishTime>10/09/2019 10:35:00</publishTime>
     </File>
     <File Include="images/a.jpg">
       <publishTime>08/29/2019 11:55:18</publishTime>
@@ -547,7 +553,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>10/20/2019 18:18:16</publishTime>
     </File>
     <File Include="Models/UserModel.edmx.diagram">
-      <publishTime>11/02/2019 16:03:41</publishTime>
+      <publishTime>02/11/2019 16:03:41</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>08/29/2019 11:35:52</publishTime>
@@ -625,19 +631,19 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>08/29/2019 11:35:52</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginFailure.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/ForgotPassword.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/ForgotPasswordConfirmation.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/Login.cshtml">
       <publishTime>10/30/2019 08:03:27</publishTime>
@@ -646,52 +652,52 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>10/30/2019 08:04:07</publishTime>
     </File>
     <File Include="Views/Account/ResetPassword.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/ResetPasswordConfirmation.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/SendCode.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/VerifyCode.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>09/10/2019 10:53:46</publishTime>
+      <publishTime>10/09/2019 10:53:46</publishTime>
     </File>
     <File Include="Views/Home/Checkout.cshtml">
-      <publishTime>09/10/2019 10:55:24</publishTime>
+      <publishTime>10/09/2019 10:55:24</publishTime>
     </File>
     <File Include="Views/Home/consumo.cshtml">
       <publishTime>10/30/2019 07:26:59</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
-      <publishTime>09/10/2019 10:53:22</publishTime>
+      <publishTime>10/09/2019 10:53:22</publishTime>
     </File>
     <File Include="Views/Home/Faqs.cshtml">
-      <publishTime>09/10/2019 10:56:01</publishTime>
+      <publishTime>10/09/2019 10:56:01</publishTime>
     </File>
     <File Include="Views/Home/Help.cshtml">
-      <publishTime>09/10/2019 10:56:06</publishTime>
+      <publishTime>10/09/2019 10:56:06</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
       <publishTime>10/29/2019 16:40:09</publishTime>
     </File>
     <File Include="Views/Home/Payment.cshtml">
-      <publishTime>09/10/2019 10:55:45</publishTime>
+      <publishTime>10/09/2019 10:55:45</publishTime>
     </File>
     <File Include="Views/Home/Product.cshtml">
-      <publishTime>02/11/2019 15:10:26</publishTime>
+      <publishTime>11/02/2019 20:47:19</publishTime>
     </File>
     <File Include="Views/Home/Single.cshtml">
-      <publishTime>09/10/2019 10:54:51</publishTime>
+      <publishTime>10/09/2019 10:54:51</publishTime>
     </File>
     <File Include="Views/Manage/AddPhoneNumber.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Manage/ChangePassword.cshtml">
       <publishTime>10/30/2019 08:04:43</publishTime>
@@ -700,34 +706,34 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>10/30/2019 08:05:32</publishTime>
     </File>
     <File Include="Views/Manage/ManageLogins.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Manage/SetPassword.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Shared/Lockout.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/09/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
       <publishTime>10/30/2019 06:49:26</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
-      <publishTime>09/10/2019 13:09:48</publishTime>
+      <publishTime>10/09/2019 13:09:48</publishTime>
     </File>
     <File Include="Views/Web.config">
-      <publishTime>09/10/2019 10:35:00</publishTime>
+      <publishTime>10/09/2019 10:35:00</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>09/10/2019 10:35:00</publishTime>
+      <publishTime>10/09/2019 10:35:00</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/02/2019 16:43:15</publishTime>
+      <publishTime>11/02/2019 21:10:05</publishTime>
     </File>
     <File Include="webfonts/fa-brands-400.eot">
       <publishTime>08/29/2019 11:39:49</publishTime>

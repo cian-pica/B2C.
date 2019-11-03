@@ -37,16 +37,16 @@
     <tbody>
         @foreach (var product in Model)
         {
-            <tr>
-                <td>@product.ProductoId</td>
-                <td>@product.FabricanteNombre</td>
-                <td>@product.ProductoReferencia</td>
-                <td>@product.ProductoNombre</td>
-                <td>@product.ProductoValor</td>
-                <td>@product.ProductoImagenUrl</td>
-                <td>@product.UsuarioId</td>
-                <td>@product.UsuarioNombre</td>
-            </tr>
+        <tr>
+            <td>@product.ProductoId</td>
+            <td>@product.FabricanteNombre</td>
+            <td>@product.ProductoReferencia</td>
+            <td>@product.ProductoNombre</td>
+            <td>@product.ProductoValor</td>
+            <td><img width="200" src="@product.ProductoImagenUrl"/></td>
+            <td>@product.UsuarioId</td>
+            <td>@product.UsuarioNombre</td>
+        </tr>
         }
     </tbody>
 </table>
@@ -109,7 +109,7 @@
                             <div class="col-md-4 product-men mt-md-0 mt-5">
                                 <div class="men-pro-item simpleCart_shelfItem">
                                     <div class="men-thumb-item text-center">
-                                        <img src="~/images/m2.jpg" alt="">
+                                        <img src="z|" alt="">
                                         <div class="men-cart-pro">
                                             <div class="inner-men-cart-pro">
                                                 <a href="@Url.Action("Single","Home")" class="link-product-add-cart">Ver Detalles</a>
