@@ -18,6 +18,39 @@
     </div>
 </div>
 <!-- //page -->
+<h2>Listado de Productos</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID Product</th>
+            <th>Nombre Fab</th>
+            <th>Ref Prod</th>
+            <th>Nombre Prod</th>
+            <th>Valor Prod</th>
+            <th>Image</th>
+            <th>Id Usuario </th>
+            <th>Nombre Usuario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductoId</td>
+                <td>@product.FabricanteNombre</td>
+                <td>@product.ProductoReferencia</td>
+                <td>@product.ProductoNombre</td>
+                <td>@product.ProductoValor</td>
+                <td>@product.ProductoImagenUrl</td>
+                <td>@product.UsuarioId</td>
+                <td>@product.UsuarioNombre</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<hr />
 <!-- top Products -->
 <div class="ads-grid py-sm-5 py-4">
     <div class="container py-xl-4 py-lg-2">

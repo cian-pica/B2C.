@@ -32,12 +32,15 @@ namespace KallSonys_B2C_v1._1.Controllers
             return View();
         }
 
-        [Authorize]
-        public ActionResult Product()
-        {
-            ViewBag.Message = "Your contact page.";
 
-            return View();
+        public async Task<ActionResult> Product()
+        {
+            var httpClient = new HttpClient();
+            var json = await httpClient.GetStringAsync("http://kallsonysservices.cian.net.co/rest/productos/getproductos");
+            var productList = JsonConvert.DeserializeObject<List<Product>>(json);
+            return View(productList);
+
+
         }
         
 

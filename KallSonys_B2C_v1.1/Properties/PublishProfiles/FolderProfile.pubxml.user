@@ -64,10 +64,10 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/28/2018 13:04:36</publishTime>
     </File>
     <File Include="bin/KallSonys_B2C_v1.1.dll">
-      <publishTime>10/28/2019 21:10:32</publishTime>
+      <publishTime>11/02/2019 16:43:14</publishTime>
     </File>
     <File Include="bin/KallSonys_B2C_v1.1.pdb">
-      <publishTime>10/28/2019 21:10:32</publishTime>
+      <publishTime>11/02/2019 16:43:14</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>04/24/2018 12:47:38</publishTime>
@@ -112,7 +112,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>07/25/2012 11:48:56</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>02/18/2018 09:44:54</publishTime>
+      <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/Owin.dll">
       <publishTime>11/27/2012 13:00:52</publishTime>
@@ -328,7 +328,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>08/29/2019 12:01:59</publishTime>
     </File>
     <File Include="Content/style.css">
-      <publishTime>09/10/2019 13:04:11</publishTime>
+      <publishTime>10/30/2019 08:01:16</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>09/10/2019 10:46:55</publishTime>
@@ -546,6 +546,9 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="Models/NewFolder1/Model1.edmx.diagram">
       <publishTime>10/20/2019 18:18:16</publishTime>
     </File>
+    <File Include="Models/UserModel.edmx.diagram">
+      <publishTime>11/02/2019 16:03:41</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>08/29/2019 11:35:52</publishTime>
     </File>
@@ -607,7 +610,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>08/29/2019 11:11:44</publishTime>
     </File>
     <File Include="Scripts/minicart.js">
-      <publishTime>10/28/2019 21:09:10</publishTime>
+      <publishTime>10/30/2019 08:25:55</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.8.3.js">
       <publishTime>08/29/2019 11:11:43</publishTime>
@@ -637,10 +640,10 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/10/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Account/Login.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/30/2019 08:03:27</publishTime>
     </File>
     <File Include="Views/Account/Register.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/30/2019 08:04:07</publishTime>
     </File>
     <File Include="Views/Account/ResetPassword.cshtml">
       <publishTime>09/10/2019 10:35:10</publishTime>
@@ -663,6 +666,9 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="Views/Home/Checkout.cshtml">
       <publishTime>09/10/2019 10:55:24</publishTime>
     </File>
+    <File Include="Views/Home/consumo.cshtml">
+      <publishTime>10/30/2019 07:26:59</publishTime>
+    </File>
     <File Include="Views/Home/Contact.cshtml">
       <publishTime>09/10/2019 10:53:22</publishTime>
     </File>
@@ -673,13 +679,13 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/10/2019 10:56:06</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>09/10/2019 10:53:05</publishTime>
+      <publishTime>10/29/2019 16:40:09</publishTime>
     </File>
     <File Include="Views/Home/Payment.cshtml">
       <publishTime>09/10/2019 10:55:45</publishTime>
     </File>
     <File Include="Views/Home/Product.cshtml">
-      <publishTime>09/10/2019 10:54:28</publishTime>
+      <publishTime>02/11/2019 15:10:26</publishTime>
     </File>
     <File Include="Views/Home/Single.cshtml">
       <publishTime>09/10/2019 10:54:51</publishTime>
@@ -688,10 +694,10 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/10/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Manage/ChangePassword.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/30/2019 08:04:43</publishTime>
     </File>
     <File Include="Views/Manage/Index.cshtml">
-      <publishTime>09/10/2019 10:35:10</publishTime>
+      <publishTime>10/30/2019 08:05:32</publishTime>
     </File>
     <File Include="Views/Manage/ManageLogins.cshtml">
       <publishTime>09/10/2019 10:35:10</publishTime>
@@ -709,7 +715,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/10/2019 10:35:10</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>09/10/2019 13:11:36</publishTime>
+      <publishTime>10/30/2019 06:49:26</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>09/10/2019 13:09:48</publishTime>
@@ -721,7 +727,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/10/2019 10:35:00</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>11/02/2019 16:43:15</publishTime>
     </File>
     <File Include="webfonts/fa-brands-400.eot">
       <publishTime>08/29/2019 11:39:49</publishTime>

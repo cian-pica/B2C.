@@ -1904,7 +1904,7 @@
 
             parent: (typeof document !== 'undefined') ? document.body : null,
 
-            action: '/Checkout',
+            action: '/Home/Checkout',
 
             target: 'post',
 
